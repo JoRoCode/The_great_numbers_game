@@ -1,1 +1,1 @@
-# The_great_numbers_game
+Practice to use Python and flask to creat a random number guessing game. 
